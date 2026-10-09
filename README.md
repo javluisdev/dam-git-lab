@@ -1,6 +1,10 @@
 # DAM Git Lab
 
-## Entorno
+## Descripción
 
-### Sistema operativo
+Repositorio de prácticas de Git para Desarrollo de Aplicaciones Multiplataforma.
+
+## Autor
+
+Francisco Javier Luis Pérez 
 
